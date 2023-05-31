@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/h5bp/Front-end-Developer-Interview-Questions#readme",
   "devDependencies": {
-    "all-contributors-cli": "^4.10.1"
+    "all-contributors-cli": "^6.26.0"
   }
 }
